@@ -3,5 +3,5 @@
  botaoMostraPalavras.addEventlistener("clik", mostraPalacrasChave);
 
  function mostraPalavrasChave(){
-    alert("fui clicado");
+    alert("fui clicado!");
  }
